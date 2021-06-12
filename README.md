@@ -1,5 +1,7 @@
 # compat-wireless
+//////////////
 Active Wlan0 more installation wifi ://////////////
+//////////////
 
 1- cd compat-wireless
 
